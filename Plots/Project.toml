@@ -1,0 +1,5 @@
+[deps]
+Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+Query = "1a8c2f83-1ff3-5112-b086-8aa67b057ba1"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
